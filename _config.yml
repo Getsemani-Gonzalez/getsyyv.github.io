@@ -8,4 +8,4 @@ git push -u origin master
 git remote add origin https://github.com/Getsemani-Gonzalez/getsyyv.github.io.git
 git push -u origin master
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
